@@ -7,14 +7,14 @@
 
 A collection of awesome up-to-date Polymer behaviors.
 
-- [app-localize-behavior](/PolymerElements/app-localize-behavior)
-- [iron-behaviors-collection](/PolymerElements/iron-behaviors-collection)
-- [log-behavior](/pwasem/log-behavior)
-- [memoization-behavior](/shawncplus/memoization-behavior)
-- [neon-page-behavior](/vguillou/neon-page-behavior)
-- [polymer-apollo](/aruntk/polymer-apollo)
-- [template-composition](/PolymerLabs/template-composition)
-- [uniflow-polymer](/google/uniflow-polymer)
+- [app-localize-behavior](https://github.com/PolymerElements/app-localize-behavior)
+- [iron-behaviors-collection](https://github.com/PolymerElements/iron-behaviors-collection)
+- [log-behavior](https://github.com/pwasem/log-behavior)
+- [memoization-behavior](https://github.com/shawncplus/memoization-behavior)
+- [neon-page-behavior](https://github.com/vguillou/neon-page-behavior)
+- [polymer-apollo](https://github.com/aruntk/polymer-apollo)
+- [template-composition](https://github.com/PolymerLabs/template-composition)
+- [uniflow-polymer](https://github.com/google/uniflow-polymer)
 
 
 [github-image]: https://img.shields.io/badge/github-add%20behavior-lightgrey.svg
