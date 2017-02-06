@@ -1,0 +1,23 @@
+{
+  "name": "awesome-behaviors",
+  "description": "A collection of awesome up-to-date Polymer behaviors.",
+  "keywords": [
+    "awesome",
+    "behavior-collection"
+  ],
+  "authors": [
+    "The StartPolymer Project Authors (https://github.com/StartPolymer/authors)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "app-localize-behavior": "PolymerElements/app-localize-behavior",
+    "iron-behaviors-collection": "PolymerElements/iron-behaviors-collection",
+    "log-behavior": "pwasem/log-behavior",
+    "memoization-behavior": "shawncplus/memoization-behavior",
+    "neon-page-behavior": "vguillou/neon-page-behavior",
+    "polymer-apollo": "aruntk/polymer-apollo",
+    "template-composition": "PolymerLabs/template-composition",
+    "uniflow-polymer": "google/uniflow-polymer"
+  },
+  "private": true
+}
