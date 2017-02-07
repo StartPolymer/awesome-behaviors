@@ -13,6 +13,7 @@ A collection of awesome up-to-date Polymer behaviors.
 - [memoization-behavior](https://github.com/shawncplus/memoization-behavior)
 - [neon-page-behavior](https://github.com/vguillou/neon-page-behavior)
 - [polymer-apollo](https://github.com/aruntk/polymer-apollo)
+- [s-behaviors](https://github.com/StartPolymer/s-behaviors)
 - [template-composition](https://github.com/PolymerLabs/template-composition)
 - [uniflow-polymer](https://github.com/google/uniflow-polymer)
 
