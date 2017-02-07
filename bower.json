@@ -16,6 +16,7 @@
     "memoization-behavior": "shawncplus/memoization-behavior",
     "neon-page-behavior": "vguillou/neon-page-behavior",
     "polymer-apollo": "aruntk/polymer-apollo",
+    "s-behaviors": "StartPolymer/s-behaviors",
     "template-composition": "PolymerLabs/template-composition",
     "uniflow-polymer": "google/uniflow-polymer"
   },
