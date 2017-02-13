@@ -12,6 +12,7 @@
   "dependencies": {
     "app-localize-behavior": "PolymerElements/app-localize-behavior",
     "iron-behaviors-collection": "PolymerElements/iron-behaviors-collection",
+    "lazy-imports": "Polymer/lazy-imports",
     "log-behavior": "pwasem/log-behavior",
     "memoization-behavior": "shawncplus/memoization-behavior",
     "neon-page-behavior": "vguillou/neon-page-behavior",
